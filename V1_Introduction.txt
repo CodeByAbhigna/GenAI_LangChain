@@ -1,3 +1,0 @@
-Started learning LangChain framework today.
-LangChain is an open source framework to build LLM based applications
-Why was it needed in the first place?
