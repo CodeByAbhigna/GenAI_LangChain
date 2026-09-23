@@ -8,3 +8,6 @@ Why was it needed in the first place?
 Got the whole history behind why LangChain was developed in the first place
 Handling an LLM application while orchestrating all its moving components is taken care by LangChain
 Components of LangChain
+
+23/09 (Wednesday)
+Learnt Components of LangChain : Models and Prompts covered so far
