@@ -11,3 +11,6 @@ Components of LangChain
 
 23/09 (Wednesday)
 Learnt Components of LangChain : Models and Prompts covered so far
+
+24/09 (Thursday)
+Didnt have the mood today. Will work tomorrow -> Need to get clarity on time management and course management.
